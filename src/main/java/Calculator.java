@@ -1,6 +1,6 @@
 public class Calculator {
 
-    public static int multiply(int x, int y) {
+    public static double multiply(double x, double y) {
         return (x*y);
     }
 }
